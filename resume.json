@@ -1,0 +1,179 @@
+{
+	"basics": {
+		"name": "Neil Dahlke",
+		"label": "Solutions Engineer",
+		"picture": "https://en.gravatar.com/userimage/25206271/c07bb7c64399588ea12e52065f2b6dda.jpg",
+		"email": "neil+eklhad-web@dahlke.io",
+		"phone": "cell not available here",
+		"website": "http://dahlke.io",
+		"summary": "",
+		"location": {
+			"address": "",
+			"postalCode": "CA 91402",
+			"city": "San Francisco",
+			"countryCode": "US",
+			"region": "California"
+		},
+		"profiles": [
+			{
+				"network": "GitHub",
+				"username": "dahlke",
+				"url": "http://github.com/dahlke"
+			},
+			{
+				"network": "Instagram",
+				"username": "eklhad",
+				"url": "http://instagram.com/eklhad"
+			},
+			{
+				"network": "LinkedIn",
+				"username": "neildahlke",
+				"url": "http://linkedin.com/in/neildahlke"
+			}
+		]
+	},
+	"work": [
+		{
+			"company": "HashiCorp",
+			"position": "Staff Solutions Engineer (West NA)",
+			"website": "http://hashicorp.com",
+			"startDate": "2020-02-01",
+			"highlights": [
+				"DevOps domain expert for sales team on strategic client relationships in F500.",
+				"Lead pre-sales engineering activities (discovery, value prop, architectural design).",
+				"Work closely with key client executive decision makers on PoCs ensuring solution validity."
+			]
+		},
+		{
+			"company": "HashiCorp",
+			"position": "Senior Solutions Engineer (West NA)",
+			"website": "http://hashicorp.com",
+			"startDate": "2018-11-19",
+			"endDate": "2020-02-01",
+			"highlights": [
+			]
+		},
+		{
+			"company": "MemSQL",
+			"position": "Senior Solutions Engineer (Team Lead, West USA)",
+			"website": "http://memsql.com",
+			"startDate": "2017-03-01",
+			"endDate": "2018-11-16",
+			"highlights": [
+				"Orchestrate pre-sales activities for the development and implementation of complex solutions.",
+				"Evangelize the product: speaking at conferences, writing blogs and technical talks.",
+				"Participate in team coordination, development activities, project planning and recruitment.",
+				"Lead, mentor, and develop the team’s sales, technical, and business skills."
+			]
+		},
+		{
+			"company": "MemSQL",
+			"position": "Solutions Engineer",
+			"website": "http://memsql.com",
+			"startDate": "2015-11-01",
+			"endDate": "2017-03-01",
+			"highlights": [
+			]
+		},
+		{
+			"company": "MemSQL",
+			"position": "Software Engineer",
+			"website": "http://memsql.com",
+			"startDate": "2013-12-01",
+			"endDate": "2015-11-01",
+			"highlights": [
+				"Translated design mockups and prototypes into large-scale web applications."
+			]
+		},
+		{
+			"company": "Computation Institute at University of Chicago",
+			"position": "Software Engineer",
+			"website": "http://globus.org",
+			"startDate": "2013-05-01",
+			"endDate": "2013-12-01",
+			"summary": "",
+			"highlights": [
+				"Developed, tested, deployed and maintained software, with a focus on front-end."
+			]
+		}
+	],
+	"volunteer": [
+	],
+	"education": [
+		{
+			"institution": "DePaul University",
+			"area": "Computer Science",
+			"studyType": "Bachelor",
+			"startDate": "2009-07-01",
+			"endDate": "2013-05-01",
+			"gpa": "3.925, Dean's List 2009-2013, Radio DePaul Host 2010-2013",
+			"courses": [
+			]
+		}
+	],
+	"awards": [
+		{
+			"title": "SE of the Quarter, Americas (FY21Q1)",
+			"date": "2020-05-07",
+			"awarder": "HashiCorp",
+			"summary": ""
+		},
+		{
+			"title": "SE of the Quarter, West USA (FY20Q1/Q2/Q3, FY21Q1)",
+			"date": "2020-05-07",
+			"awarder": "HashiCorp",
+			"summary": ""
+		},
+		{
+			"title": "SE of the Year, West USA (FY20)",
+			"date": "2020-02-11",
+			"awarder": "HashiCorp",
+			"summary": ""
+		},
+		{
+			"title": "SE of the Year, Global (FY19)",
+			"date": "2018-03-21",
+			"awarder": "MemSQL",
+			"summary": ""
+		},
+		{
+			"title": "President's Club (FY17, FY18, FY19)",
+			"date": "2018-03-21",
+			"awarder": "MemSQL",
+			"summary": ""
+		}
+	],
+	"publications": [
+	],
+	"skills": [
+		{
+            "name": "App Dev",
+            "level": "",
+            "keywords": [
+                "Python", "Go", "Java", "JavaScript", "React", "Babel", "HTML", "CSS", "Vim", "Tabs"
+            ]
+        },
+        {
+            "name": "Dev Ops",
+            "level": "",
+            "keywords": [
+                "Terraform", "Vault", "Nomad", "Kubernetes", "Consul", "Linux", "Containers", "Automation", "Tools", "Continuous Integration", "Config Management", "Git"
+            ]
+        },
+       {
+            "name": "Data Infrastructure",
+            "level": "",
+            "keywords": [
+                "Databases", "Distributed Systems", "Message Queues", "Analytics", "Architecture"
+            ]
+        }
+	],
+	"interests": [
+		{
+			"name": "Being outside.",
+			"keywords": [ "surfing", "running", "skiing", "hiking", "travel", "photography", "stories", "people", "team sports"]
+		}
+	],
+	"references": [
+	]
+}
