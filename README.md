@@ -11,6 +11,10 @@ cd jsonresume-theme-compact
 resume serve
 ```
 
-## Temporary Workaround
+## Publishing to NPM
 ```
+
+npm init
+
+npm publish [<tarball>|<folder>] [--tag <tag>] [--access <public|restricted>] [--otp otpcode] [--dry-run]
 ```

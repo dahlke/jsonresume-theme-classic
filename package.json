@@ -5,7 +5,7 @@
   "author": "Neil Dahlke",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dahlke/jsonresume-theme-compact.git"
+    "url": "git+https://github.com/dahlke/jsonresume-theme-compact.git"
   },
   "license": "MIT",
   "dependencies": {
@@ -17,5 +17,8 @@
   },
   "homepage": "https://github.com/dahlke/jsonresume-theme-compact",
   "main": "index.js",
-  "devDependencies": {}
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
