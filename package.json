@@ -1,11 +1,11 @@
 {
-  "name": "jsonresume-theme-compact",
+  "name": "jsonresume-theme-classic",
   "version": "0.0.1",
-  "description": "Maximally compact JSON resume theme.",
+  "description": "Maximally compact JSON resume theme, with classic resume styling.",
   "author": "Neil Dahlke",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dahlke/jsonresume-theme-compact.git"
+    "url": "git+https://github.com/dahlke/jsonresume-theme-classic.git"
   },
   "license": "MIT",
   "dependencies": {
@@ -13,9 +13,9 @@
     "handlebars": "4.7.6"
   },
   "bugs": {
-    "url": "https://github.com/dahlke/jsonresume-theme-compact/issues"
+    "url": "https://github.com/dahlke/jsonresume-theme-classic/issues"
   },
-  "homepage": "https://github.com/dahlke/jsonresume-theme-compact",
+  "homepage": "https://github.com/dahlke/jsonresume-theme-classic",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {

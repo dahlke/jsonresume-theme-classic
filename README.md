@@ -1,4 +1,4 @@
-# jsonresume-theme-compact
+# jsonresume-theme-classic
 
 ## Running
 
@@ -6,8 +6,8 @@ _NOTE: [2020-10-26] [v2.0.0 of resume-cli broke local theme development](https:/
 
 ```
 npm install resume-cli@1.2.8
-git clone https://github.com/dahlke/jsonresume-theme-compact.git
-cd jsonresume-theme-compact
+git clone https://github.com/dahlke/jsonresume-theme-classic.git
+cd jsonresume-theme-classic
 resume serve
 ```
 
@@ -15,6 +15,9 @@ resume serve
 ```
 
 npm init
+npm install /path/to/this/package
 
-npm publish [<tarball>|<folder>] [--tag <tag>] [--access <public|restricted>] [--otp otpcode] [--dry-run]
+npm adduser
+
+npm publish .
 ```
